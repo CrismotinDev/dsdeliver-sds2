@@ -6,7 +6,7 @@ import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
 import ProductsList from './ProductsList';
 import StepsHeader from './StepsHeader';
-import { toast, Toast} from 'react-toastify';
+import { toast,} from 'react-toastify';
 
 import './styles.css';
 import { OrderLocationData, Product } from './types';
